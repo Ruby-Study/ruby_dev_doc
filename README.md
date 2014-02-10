@@ -6,14 +6,17 @@ Ruby开发环境相关文档
 初始环境安装：
 ------------
 
-资源：
+相关资源：
 * [vagrant](http://www.vagrantup.com/)
 * [vagrantbox](http://www.vagrantbox.es/)
 * [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 * [RVM](http://rvm.io/) / [Rbenv](http://rbenv.org/)
 
-详细：
-[使用vagrant搭建Ruby开发环境](/vagrant)
+Vagrant安装配置及其他：
+* [Linux](/linux)用户
+* [Macosx](/macosx)用户
+* [Windows](/windows)用户
 
-其他：
-* [linux](/linux) 
+Ruby开发环境搭建详细：
+  [使用vagrant搭建Ruby开发环境](/vagrant)
+
