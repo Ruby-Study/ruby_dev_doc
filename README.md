@@ -3,7 +3,7 @@ ruby_dev_doc
 
 Ruby开发环境相关文档
 
-初始环境安装：
+getting start：
 ------------
 
 相关资源：
