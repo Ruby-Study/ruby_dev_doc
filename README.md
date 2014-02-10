@@ -20,3 +20,4 @@ Vagrant安装配置及其他：
 Ruby开发环境搭建详细：
   [使用vagrant搭建Ruby开发环境](/vagrant)
 
+(to be continue...)
