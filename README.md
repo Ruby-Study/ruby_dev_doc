@@ -10,6 +10,7 @@ getting start：
 * [vagrant](http://www.vagrantup.com/)
 * [vagrantbox](http://www.vagrantbox.es/)
 * [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+* [Docker](http://docker.io/)
 * [RVM](http://rvm.io/) / [Rbenv](http://rbenv.org/)
 
 Vagrant安装配置及其他：
